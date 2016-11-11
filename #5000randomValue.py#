@@ -1,0 +1,4 @@
+import random
+X=[]
+for i in range (5000):
+    X.append(random.rand
